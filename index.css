@@ -1,0 +1,54 @@
+body{
+    background-color: cadetblue;
+}
+input{
+    background-color:aqua;
+    color:purple;
+    position:absolute;
+    left:70%
+    
+    
+    
+}
+button{
+    background-color:burlywood;
+    color:blue;
+    position:absolute;
+    left:90%;
+    
+    
+    
+
+}
+.lol { color: blue; 
+position:absolute;
+left:17%;}
+.redd { color: rgb(255, 0, 0); 
+    position:absolute;
+    left:25%;
+}
+.gg { color:purple; 
+position:absolute;
+left:40%;}
+.bluee { color:green; 
+position:absolute;
+left:49%;}
+
+img{
+    padding-right:10%
+}
+
+.jeans3{
+    position:absolute;
+    left:70%
+}
+
+.jeans2{
+    position:absolute;
+    left:40%
+}
+
+.jeans1{
+    position:absolute;
+    left:10%
+}
