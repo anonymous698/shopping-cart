@@ -52,3 +52,14 @@ img{
     position:absolute;
     left:10%
 }
+
+.nav{
+    background-color:black;
+    height:46px;
+}
+
+.cart{
+    height:40px;
+    position:absolute;
+    left:5%
+}
