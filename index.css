@@ -5,7 +5,8 @@ input{
     background-color:aqua;
     color:purple;
     position:absolute;
-    left:70%
+    left:70%;
+    display:inline;
     
     
     
@@ -15,6 +16,7 @@ button{
     color:blue;
     position:absolute;
     left:90%;
+    display:inline;
     
     
     
@@ -22,35 +24,40 @@ button{
 }
 .lol { color: blue; 
 position:absolute;
-left:17%;}
+left:17%;
+display:inline}
 .redd { color: rgb(255, 0, 0); 
     position:absolute;
     left:25%;
+    display:inline;
 }
 .gg { color:purple; 
 position:absolute;
-left:40%;}
+left:40%;
+display:inline;}
 .bluee { color:green; 
 position:absolute;
-left:49%;}
+left:49%;
+display:inline;}
 
 img{
-    padding-right:10%
+    padding-right:10%;
+
 }
 
 .jeans3{
     position:absolute;
-    left:70%
+    left:70%;
 }
 
 .jeans2{
     position:absolute;
-    left:40%
+    left:40%;
 }
 
 .jeans1{
     position:absolute;
-    left:10%
+    left:10%;
 }
 
 .nav{
@@ -61,5 +68,6 @@ img{
 .cart{
     height:40px;
     position:absolute;
-    left:5%
+    left:5%;
+    display:inline;
 }
