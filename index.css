@@ -1,5 +1,11 @@
 body{
     background-color: cadetblue;
+    background-image: url("sh.jpg");
+    background-repeat: repeat-x;
+    background-position: right top;
+    background-attachment: scroll;
+    background-size:cover;
+    
 }
 input{
     background-color:aqua;
@@ -20,7 +26,20 @@ button{
     
     
     
+    
 
+}
+button:hover{
+color:red;
+background-color:aqua;
+cursor:pointer;
+transform:scale(1.1);
+padding:2px;
+box-shadow: 0px 0px 10px rgba(52, 152, 219, 0.8);
+
+}
+button:active{
+    cursor:wait;
 }
 .lol { color: blue; 
 position:absolute;
