@@ -23,6 +23,8 @@ button{
     position:absolute;
     left:90%;
     display:inline;
+    border:none;
+    top:1%;
     
     
     
@@ -36,6 +38,7 @@ cursor:pointer;
 transform:scale(1.1);
 padding:2px;
 box-shadow: 0px 0px 10px rgba(52, 152, 219, 0.8);
+border:red aqua
 
 }
 button:active{
@@ -50,6 +53,11 @@ display:inline}
     left:25%;
     display:inline;
 }
+.redd:hover{
+transform:scale(1.1);
+box-shadow: 0px 0px 10px rgba(52,219,152,0.7);
+
+}
 .gg { color:purple; 
 position:absolute;
 left:40%;
@@ -58,6 +66,10 @@ display:inline;}
 position:absolute;
 left:49%;
 display:inline;}
+.bluee:hover{
+    transform:scale(1.1);
+    box-shadow: 0px 0px 10px rgba(52,219,152,0.7);
+}
 
 img{
     padding-right:10%;
